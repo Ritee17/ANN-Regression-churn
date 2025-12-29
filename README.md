@@ -37,7 +37,8 @@ Salary-Estimation-Project/
 ├── salary_model.h5                # The trained ANN model
 ├── salary_scaler.pkl              # Saved Standard Scaler
 ├── salary_gender_encoder.pkl      # Saved Label Encoder
-└── salary_geo_encoder.pkl         # Saved One-Hot Encoder ```
+└── salary_geo_encoder.pkl         # Saved One-Hot Encoder
+```
 
 ## 🚀 Installation & Setup
 

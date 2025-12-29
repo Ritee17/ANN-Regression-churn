@@ -20,7 +20,7 @@ The goal of this project is to build a regression model that can estimate a user
 
 ## 📂 Project Structure
 
-```
+```text
 Salary-Estimation-Project/
 │
 ├── venv/                          # Virtual environment (do not track in git)

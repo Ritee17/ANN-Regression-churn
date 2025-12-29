@@ -25,16 +25,15 @@ Salary-Estimation-Project/
 │
 ├── venv/                          # Virtual environment (do not track in git)
 │
-├── .gitignore                     # Files to exclude from Git
 ├── README.md                      # Project documentation
 ├── requirements.txt               # List of python libraries needed
 │
 ├── Churn_Modelling.csv            # The dataset
-├── salary_regression.ipynb        # Notebook used to train the model
+├── salaryregression.ipynb        # Notebook used to train the model
 ├── app.py                         # The Streamlit web application
 │
 ├── # --- Generated Files (Created after running the notebook) ---
-├── salary_model.h5                # The trained ANN model
+├── regression_model.h5                # The trained ANN model
 ├── salary_scaler.pkl              # Saved Standard Scaler
 ├── salary_gender_encoder.pkl      # Saved Label Encoder
 └── salary_geo_encoder.pkl         # Saved One-Hot Encoder

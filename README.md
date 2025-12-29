@@ -19,6 +19,8 @@ The goal of this project is to build a regression model that can estimate a user
 * **Pickle** (Model Persistence)
 
 ## 📂 Project Structure
+
+```
 Salary-Estimation-Project/
 │
 ├── venv/                          # Virtual environment (do not track in git)
@@ -35,7 +37,7 @@ Salary-Estimation-Project/
 ├── salary_model.h5                # The trained ANN model
 ├── salary_scaler.pkl              # Saved Standard Scaler
 ├── salary_gender_encoder.pkl      # Saved Label Encoder
-└── salary_geo_encoder.pkl         # Saved One-Hot Encoder
+└── salary_geo_encoder.pkl         # Saved One-Hot Encoder ```
 
 ## 🚀 Installation & Setup
 

@@ -2,6 +2,8 @@
 
 A machine learning project that predicts a bank customer's estimated salary based on their demographic and account information. This project features an ANN regression model built with TensorFlow/Keras and deployed as an interactive web application using Streamlit.
 
+**🔴 Live Demo:** [Click here to use the App](https://ann-regression-churn-zabtskeggtqxq5udragvwp.streamlit.app/)
+
 ## 📌 Project Overview
 The goal of this project is to build a regression model that can estimate a user's salary based on standard banking data points. It demonstrates the end-to-end process of data preprocessing, model training, and deployment.
 
